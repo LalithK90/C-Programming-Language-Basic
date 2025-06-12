@@ -1,0 +1,9 @@
+site_name: C Programming Knowledge
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Tutorials:
+      - Basics: tutorials/basics.md
+  - Examples:
+      - Hello World: examples/hello_world.c
